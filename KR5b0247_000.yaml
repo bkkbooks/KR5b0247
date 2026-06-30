@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5b0247/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上慈悲九幽拔罪懺
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 00:14:48.372173'
+  source:
+    repository: kanripo
+    path: KR5b0247/KR5b0247_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:20d1d1a495ffef3b7bd5d8c73ed25cc274a4d60f1fa7a1206c5cd850fa3e4c44
